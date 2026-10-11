@@ -10,4 +10,4 @@ A Python application built as part of the Oasis Infobyte Python Programming Inte
 1. Ensure Python is installed on your system.
 2. Run the script using your terminal:
    ```bash
-   python filename.py
+   python calculator.py
